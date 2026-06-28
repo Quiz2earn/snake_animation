@@ -20,7 +20,7 @@ Automated GitHub contribution snake animation, generated with GitHub Actions and
 - GitHub Actions
 - SVG output
 
-## ⚙️ How It Works
+## ⚙️ How Its Works
 
 1. GitHub Actions runs on a schedule, on push to `main`, or manually.
 2. `Platane/snk/svg-only@v3` generates the snake animation as `snake.svg`.
